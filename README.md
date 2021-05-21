@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @truongkimson
-- 👀 I’m interested in machine learning, data science and computer vision
+- 👀 I’m interested in machine learning, computer vision and web dev
 - 🌱 I’m currently learning python, c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at sontks@gmail.com
