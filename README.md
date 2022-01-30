@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @truongkimson
-- 👀 I’m interested in machine learning, computer vision and web dev
-- 🌱 I’m currently learning python, C#, ASP.NET Core, Javascript, React
+- 👀 I’m interested in web dev, web3, dapps
+- 🌱 I’m currently learning solidity, NoSQL, node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at sontks@gmail.com
 
